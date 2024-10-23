@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/thexM0G/thexM0G/blob/main/cool.gif" alt="Welcome Guys " />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/M0G.png" alt="Your Image Badge" />
+
 </p>
 
 <h1 align="center">Hey there, I'm M0G 👋</h1>
@@ -29,7 +31,6 @@
 ---
 
 ### 🌱 Learning Resources:
-<img src="https://tryhackme-badges.s3.amazonaws.com/M0G.png" alt="Your Image Badge" />
 - **TryHackMe**: Improving hacking skills through interactive challenges.
 - **pwn.college**: Deepening knowledge in advanced cybersecurity techniques.
 
