@@ -29,6 +29,7 @@
 ---
 
 ### 🌱 Learning Resources:
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3002587" style='border:none;'></iframe>
 - **TryHackMe**: Improving hacking skills through interactive challenges.
 - **pwn.college**: Deepening knowledge in advanced cybersecurity techniques.
 
