@@ -2,7 +2,7 @@
   <img src="https://github.com/thexM0G/thexM0G/blob/main/cool.gif" alt="Welcome Guys " />
 </p>
 
-<h1 align="center">Hey there, I'm Lakshay Jain 👋</h1>
+<h1 align="center">Hey there, I'm M0G 👋</h1>
 
 <p align="center">
   I'm passionate about Cybersecurity, Ethical Hacking, and building Python tools. <br/>
